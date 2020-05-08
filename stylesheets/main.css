@@ -1,0 +1,27 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail img{
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+body > div > div > div.col-md-9 > div.thumbnail > div{
+    padding: 9px;
+}
+
+.cntr{
+    margin :0 auto;
+}
+#delete-form{
+    display:inline;
+}
+
+#formdiv{
+    width:30% ; 
+    text-align:center ; 
+    margin:25px auto;
+}
